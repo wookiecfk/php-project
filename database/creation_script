@@ -1,0 +1,34 @@
+CREATE TABLE record (
+    record_id int NOT NULL AUTO_INCREMENT,
+    file_name varchar(255),
+    title varchar(255),
+    IRSC_code varchar(255),
+    compositor varchar(255),
+    author varchar(255),
+    cover_author varchar(255),
+    duration_seconds int,
+
+    CONSTRAINT record_pk PRIMARY KEY (record_id)
+
+);
+
+create table report (
+    report_id int NOT NULL AUTO_INCREMENT,
+    name varchar(255),
+    year int,
+    month int,
+
+    constraint report_pk primary key (report_id)
+
+);
+
+create table report_to_record (
+    report_id int not null,
+    record_id int not null,
+    index_number int,
+    emission_number int,
+
+    constraint primary key (report_id),
+    constraint foreign key (report_id) references report (report_id) on delete cascade,
+    constraint foreign key (record_id) references record (record_id)
+);

@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="119992bc-de71-4674-ae4a-4a1ce7a59da2" name="Default Changelist" comment="" />
+    <list default="true" id="119992bc-de71-4674-ae4a-4a1ce7a59da2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/creation_script" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/record/create_record.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/user/user_login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/user/user_logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/helper/helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/record/RecordManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/record/record_create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/user/user_create_page_script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/user/user_login_page_script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php/user/user_logout_page_script.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/main_old.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/user/user_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/user/user_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/user/UserManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/user/UserManager.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +34,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iWamrSjFCHMsJngtYrLi7ZELfQ" />
   <component name="ProjectViewState">
@@ -28,13 +51,21 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../work_gft/flink/flink-runtime-web" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/php" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request" url="localhost/user/user_create.html">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,25 +85,60 @@
       <workItem from="1604164653941" duration="1863000" />
       <workItem from="1604235163882" duration="3148000" />
       <workItem from="1604279290083" duration="831000" />
+      <workItem from="1604532752135" duration="609000" />
+      <workItem from="1604791567412" duration="7787000" />
+      <workItem from="1604858827115" duration="6390000" />
+      <workItem from="1604930826754" duration="2041000" />
+      <workItem from="1605050660000" duration="599000" />
+      <workItem from="1605116455422" duration="10517000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../work_gft/flink/flink-runtime-web/web-dashboard/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="418" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604104923950">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state x="682" y="253" width="828" height="684" key="#Servers" timestamp="1604799772784">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="682" y="253" width="828" height="684" key="#Servers/290.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604799772784" />
+    <state x="557" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604799800139">
+      <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="418" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1604104923950" />
-    <state x="777" y="452" width="359" height="149" key="NewPhpFileDialog" timestamp="1604238240660">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state x="557" y="253" key="#com.intellij.execution.impl.EditConfigurationsDialog/290.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604799800139" />
+    <state x="1000" y="512" width="553" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605116600279">
+      <screen x="0" y="0" width="2560" height="1412" />
+    </state>
+    <state x="1000" y="512" width="553" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1412/342.1440.1920.1080@0.0.2560.1412" timestamp="1605116600279" />
+    <state x="1063" y="465" width="428" height="484" key="FileChooserDialogImpl" timestamp="1604930876635">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1063" y="465" width="428" height="484" key="FileChooserDialogImpl/290.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604799851258" />
+    <state x="1063" y="465" key="FileChooserDialogImpl/320.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604930876635" />
+    <state x="997" y="521" width="560" height="371" key="NewPhpClassDialog" timestamp="1605121892622">
+      <screen x="0" y="0" width="2560" height="1412" />
+    </state>
+    <state x="997" y="521" width="560" height="371" key="NewPhpClassDialog/0.0.2560.1412/342.1440.1920.1080@0.0.2560.1412" timestamp="1605121892622" />
+    <state x="1036" y="607" width="359" height="149" key="NewPhpFileDialog" timestamp="1605124836784">
+      <screen x="0" y="0" width="2560" height="1412" />
     </state>
     <state x="777" y="452" width="359" height="149" key="NewPhpFileDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1604238240660" />
-    <state x="639" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1604279313448">
-      <screen x="0" y="0" width="1920" height="1052" />
+    <state x="1036" y="607" width="359" height="149" key="NewPhpFileDialog/0.0.2560.1412/342.1440.1920.1080@0.0.2560.1412" timestamp="1605124836784" />
+    <state x="1036" y="619" width="359" height="149" key="NewPhpFileDialog/290.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604880447710" />
+    <state x="852" y="476" key="com.intellij.ide.util.TipDialog" timestamp="1605116460548">
+      <screen x="0" y="0" width="2560" height="1412" />
     </state>
     <state x="639" y="354" key="com.intellij.ide.util.TipDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1604279313448" />
+    <state x="852" y="476" key="com.intellij.ide.util.TipDialog/0.0.2560.1412/342.1440.1920.1080@0.0.2560.1412" timestamp="1605116460548" />
+    <state x="852" y="485" key="com.intellij.ide.util.TipDialog/290.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604859564471" />
+    <state x="852" y="485" key="com.intellij.ide.util.TipDialog/320.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604930826801" />
+    <state x="852" y="485" key="com.intellij.ide.util.TipDialog/326.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604532755622" />
     <state x="335" y="253" width="1243" height="547" key="new project wizard" timestamp="1602982827327">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
@@ -81,5 +147,21 @@
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="622" y="240" key="run.anything.popup/0.0.1920.1052@0.0.1920.1052" timestamp="1604239446718" />
+    <state x="943" y="316" width="672" height="665" key="search.everywhere.popup" timestamp="1605126733316">
+      <screen x="0" y="0" width="2560" height="1412" />
+    </state>
+    <state x="943" y="316" width="672" height="665" key="search.everywhere.popup/0.0.2560.1412/342.1440.1920.1080@0.0.2560.1412" timestamp="1605126733316" />
+    <state x="943" y="322" width="672" height="678" key="search.everywhere.popup/290.1440.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1604884167992" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/php/user/UserManager.php</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
